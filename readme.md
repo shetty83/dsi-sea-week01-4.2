@@ -33,4 +33,3 @@ A reason you may want to transpose a data set is to transform it from a "tall an
 
 Here is a link to the [starter code](./code/starter-code/w1-4.2-starter.ipynb).
 
-> [Solution Code](./code/solution-code/w1-4.2-solution.ipynb)
